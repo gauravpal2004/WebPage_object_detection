@@ -1,0 +1,35 @@
+item {
+    id: 1
+    name: 'button'
+}
+
+item {
+    id: 2
+    name: 'heading'
+}
+
+item {
+    id: 2
+    name: 'link'
+}
+
+item {
+    id: 2
+    name: 'label'
+}
+
+item {
+    id: 2
+    name: 'text'
+}
+
+item {
+    id: 2
+    name: 'image'
+}
+
+item {
+    id: 2
+    name: 'iframe'
+}
+
